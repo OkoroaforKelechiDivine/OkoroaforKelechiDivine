@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OkoroaforKelechiDivine
 - 👀 I’m interested in building softwares that'll last
 - 🌱 I’m currently learning front-end and Devops
-- 💞️ I’m looking to collaborate on andy front-end project
+- 💞️ I’m looking to collaborate with friends
 - 📫 Reach me on my mail okoroaforkelechi123@gmail.com
 
 <!---
