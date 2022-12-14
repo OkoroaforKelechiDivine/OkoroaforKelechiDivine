@@ -1,4 +1,4 @@
- 👋 Hi, I’m Okoroafor Kelechi Divine
+. 👋 Hi, I’m Okoroafor Kelechi Divine
 . 👀 Lover of Open Source contribution
 . 📫 I'm currently working on flutter, Java and react as a side Booster
 . 🌱 Ask me anything about coding with Java and Springboot
