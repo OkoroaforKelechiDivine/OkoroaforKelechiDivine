@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OkoroaforKelechiDivine
-- ✨ I am a multi-tasking Java fullstcak engineer from Lagos, Nigeria
+- ✨ I am a multi-tasking Java fullstack engineer from Lagos, Nigeria
 - 👀 I’m interested in building softwares that'll last
 - 🌱 I’m currently learning front-end and Devops
 - 💞️ I’m looking to collaborate with friends
