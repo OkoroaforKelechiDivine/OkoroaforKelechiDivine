@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @OkoroaforKelechiDivine
-- ✨ I am a multi-tasking Java fullstack engineer from Lagos, Nigeria
-- 👀 I’m interested in building softwares that'll last
-- 🌱 I’m currently learning front-end and Devops
-- 💞️ I’m looking to collaborate with friends
-- 📫 Reach me on my mail okoroaforkelechi123@gmail.com
-
+ 👋 Hi, I’m Okoroafor Kelechi Divine
+. 👀 Lover of Open Source contribution
+. 📫 I'm currently working on flutter, Java and react as a side Booster
+. 🌱 Ask me anything about coding with Java and Springboot
+. 💞️ I’m looking to collaborate on any project using Springboot, flutter, React, and Java
+. 📫 How to reach me okoroaforkelechi123@gmail.com
+. 👨🏻‍💻 Portfolio : https://okoroaforkelechidivine.github.io/portfolio/
 <!---
 OkoroaforKelechiDivine/OkoroaforKelechiDivine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
