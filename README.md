@@ -1,7 +1,7 @@
 . 👋 Hi, I’m Okoroafor Kelechi Divine</br>
 . 👀 Lover of Open Source contribution</br>
 . 🤍 Learning & advancing my frontend, mobile and backend skills while creating beautiful, useful applications</br>
-. 🌱 Ask me anything about coding with Java and Springboot</br>
+. 🌱 Ask me anything about coding with Java and Springboot, flutter</br>
 . 💞️ I’m looking to collaborate on any project using Springboot, flutter, React, and Java</br>
 . 📫 How to reach me okoroaforkelechi123@gmail.com</br>
 . 👨🏻‍💻 Portfolio : https://okoroaforkelechidivine.github.io/portfolio/
