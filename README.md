@@ -31,22 +31,24 @@ Welcome to my GitHub profile! I’m a **multidisciplinary software engineer** pa
 
 ## 🕒 **Coding Insights**
 - **Total Time Coding on GitHub:** 1200+ hours
-- **Most Active Day:** Wednesdays (commits peak)
+- **Most Active Day:** Wednesdays (Github Wrapped for 2024 peak)
 - **Longest Coding Streak:** 30+ consecutive days
 - **Average Daily Coding Time:** 4 hours
-- **Total Deployments:** 50+ projects deployed to production
-- **Articles Published:** 15+ technical articles on software engineering
-- **Favorite Repository:** [Nzinga Caption Generator](https://github.com/OkoroaforKelechiDivine/Nzinga-Caption-Generator) – *A cutting-edge app that uses AI to generate captions for images.*
+- **Total Deployments:** 10+ projects deployed to production
+- **Articles Published:** 20+ technical articles on software engineering
+- **Favorite Repository:** [Nzinga Caption Generator](https://github.com/OkoroaforKelechiDivine/nzinger) – *A cutting-edge app that uses AI to generate image captions.*
 - **Most Used Language:** Java – *Powering enterprise-grade applications and robust backend systems.*
 
 ---
 
 ## 💬 **Client Reviews**
-> "Okoroafor delivered beyond our expectations. The app's performance and design are outstanding!" – **John D., CEO of TechSpark**
+> "Okoroafor delivered beyond our expectations. The app's performance and design are outstanding!" – **Sawyeer., CEO of Figorate**
 
 > "A dedicated and talented engineer. Working with Okoroafor was a seamless and productive experience." – **Sarah K., Founder of InnovateHub**
 
-> "His expertise in Flutter and Spring Boot turned our vision into a reality. Highly recommended!" – **Michael T., Product Manager at Appify**
+> "His expertise in Flutter and Spring Boot turned our vision into a reality. Highly recommended!" – ** **Dare, software engineer**
+
+> "Kelechi is a bot, working with Kelechi is like working with a robot, he doesn't sleep and you as his worker why should you sleep?" - **Tony, CEO of Techstarter**
 
 ---
 
@@ -68,12 +70,12 @@ Welcome to my GitHub profile! I’m a **multidisciplinary software engineer** pa
 ### Languages:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/Typescript-%23F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=black)
 
 ### Frameworks & Libraries:
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next](https://img.shields.io/badge/Next-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 ### Tools:
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -85,7 +87,7 @@ Welcome to my GitHub profile! I’m a **multidisciplinary software engineer** pa
 
 ## 🎯 **Let’s Collaborate!**
 Looking to work together? I’m excited to collaborate on projects involving:
-- 🖥 **Web Applications** with **React** and **Spring Boot**.
+- 🖥 **Web Applications** with **NextJs** and **Spring Boot**.
 - 📱 **Mobile Applications** using **Flutter**.
 - ⚙️ **Backend Systems** powered by **Java** and **Spring Boot**.
 
