@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I’m a **multidisciplinary software engineer** pa
 
 ## 🌐 **Professional Highlights**
 - **Top Company Worked With:** GreenTribe – Innovating the movie-streaming experience as a mobile engineer.
-- **Community Contributions:** Organized workshops for **Flutter and Java enthusiasts**, mentoring over **200 developers** globally.
+- **Community Contributions:** Organized workshops for **Flutter and Java enthusiasts**, mentoring over **50+ developers** globally.
 - **Deployment Excellence:** Over 50+ production deployments, ensuring reliability and scalability.
 
 ---
