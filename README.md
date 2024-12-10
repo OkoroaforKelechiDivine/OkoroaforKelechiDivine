@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I’m a **multidisciplinary software engineer** passionate about building scalable, user-friendly applications and solving real-world problems through innovative technology. My expertise spans **Java**, **Spring Boot**, **Flutter**, and **NextJs**.
 
+---
+
 ## 🌟 **About Me**
 - 👀 **An Aggressive Learner** – Constantly expanding my front-end, back-end, and mobile development skills.
 - 🤍 I specialize in creating **beautiful and functional applications** that solve problems and inspire.
@@ -19,11 +21,15 @@ Welcome to my GitHub profile! I’m a **multidisciplinary software engineer** pa
 ### **Top Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OkoroaforKelechiDivine&layout=compact&theme=radical)
 
+### **Profile Views**
+![Profile Views](https://komarev.com/ghpvc/?username=OkoroaforKelechiDivine&color=brightgreen)
+
 ### **Coding Streak**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OkoroaforKelechiDivine&theme=radical)
 
 ### **Contribution Graph**
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=OkoroaforKelechiDivine&theme=react-dark)
+
 
 ---
 
