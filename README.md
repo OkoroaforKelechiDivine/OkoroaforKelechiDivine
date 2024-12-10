@@ -48,9 +48,11 @@ Welcome to my GitHub profile! I’m a **multidisciplinary software engineer** pa
 ## 💬 **Client Reviews**
 > "Okoroafor delivered beyond our expectations. The app's performance and design are outstanding!" – **Sawyeer., CEO of Figorate**
 
-> "A dedicated and talented engineer. Working with Okoroafor was a seamless and productive experience." – **Sarah K., Founder of InnovateHub**
+> "A dedicated and talented engineer. Working with Okoroafor was a seamless and productive experience." – **Sarah K., Software Engineer**
 
 > "His expertise in Flutter and Spring Boot turned our vision into a reality. Highly recommended!" – **Dare, software engineer**
+>
+> "Kelechi is full of information, he knows a lot and it's a privilege to have worked with him" – **Lanre, software engineer**
 
 > "Kelechi is a bot, working with Kelechi is like working with a robot, he doesn't sleep and you as his worker why should you sleep?" - **Tony, CEO of Techstarter**
 
