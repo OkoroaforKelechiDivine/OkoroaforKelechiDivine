@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I’m a **multidisciplinary software engineer** pa
 
 > "A dedicated and talented engineer. Working with Okoroafor was a seamless and productive experience." – **Sarah K., Founder of InnovateHub**
 
-> "His expertise in Flutter and Spring Boot turned our vision into a reality. Highly recommended!" – ** **Dare, software engineer**
+> "His expertise in Flutter and Spring Boot turned our vision into a reality. Highly recommended!" – **Dare, software engineer**
 
 > "Kelechi is a bot, working with Kelechi is like working with a robot, he doesn't sleep and you as his worker why should you sleep?" - **Tony, CEO of Techstarter**
 
@@ -75,7 +75,7 @@ Welcome to my GitHub profile! I’m a **multidisciplinary software engineer** pa
 ### Frameworks & Libraries:
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Next](https://img.shields.io/badge/Next-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next](https://img.shields.io/badge/Next-%2361DAFB.svg?style=for-the-badge&logo=next&logoColor=black)
 
 ### Tools:
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
