@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?OkoroaforKelechiDivine=OkoroaforKelechiDivine&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OkoroaforKelechiDivine&layout=compact)
