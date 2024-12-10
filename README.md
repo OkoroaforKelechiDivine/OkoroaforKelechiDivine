@@ -2,15 +2,6 @@
 
 Welcome to my GitHub profile! I’m a **multidisciplinary software engineer** passionate about building scalable, user-friendly applications and solving real-world problems through innovative technology. My expertise spans **Java**, **Spring Boot**, **Flutter**, and **NextJs**.
 
----
-
-## 🎬 **Watch My Introductory Animation**
-Click on the link below to watch a short animation that showcases my work and passion:
-
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=vq2jYFZVMDA)
-
----
-
 ## 🌟 **About Me**
 - 👀 **An Aggressive Learner** – Constantly expanding my front-end, back-end, and mobile development skills.
 - 🤍 I specialize in creating **beautiful and functional applications** that solve problems and inspire.
