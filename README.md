@@ -98,7 +98,7 @@ Reach out to me via [email](mailto:okoroaforkelechi123@gmail.com) or explore my 
 ## 🌐 **Connect with Me**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kelechi-okoroafor/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-orange?style=for-the-badge)](https://okoroaforkelechidivine.github.io/portfolio/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/realzipdemon)
 
 ---
 
