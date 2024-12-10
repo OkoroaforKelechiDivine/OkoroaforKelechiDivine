@@ -1,14 +1,14 @@
 # 👋 Hi, I’m **Okoroafor Kelechi Divine**
 
-Welcome to my GitHub profile! I’m a **multidisciplinary software engineer** with a passion for building scalable, user-friendly applications and solving real-world problems through innovative technology. My expertise spans **Java**, **Spring Boot**, **Flutter**, and **React**.
+Welcome to my GitHub profile! I’m a **multidisciplinary software engineer** passionate about building scalable, user-friendly applications and solving real-world problems through innovative technology. My expertise spans **Java**, **Spring Boot**, **Flutter**, and **NextJs**.
 
 ---
 
 ## 🌟 **About Me**
-- 👀 **An Aggressive Learner** – Constantly expanding my skills in frontend, backend, and mobile development.
+- 👀 **An Aggressive Learner** – Constantly expanding my front-end, back-end, and mobile development skills.
 - 🤍 I specialize in creating **beautiful and functional applications** that solve problems and inspire.
-- 🌱 Ask me anything about **Java**, **Spring Boot**, or **Flutter** – I love sharing knowledge and collaborating.
-- 💞️ Open to collaborations on exciting projects using **Spring Boot**, **Flutter**, **React**, and **Java**.
+- 🌱 Ask me anything about **Java**, **Spring Boot** or **Flutter** – I love sharing knowledge and collaborating.
+- 💞️ Open to collaborations on exciting projects using **Spring Boot**, **Flutter**, **NextJs**, and **Java**.
 - 📫 **Reach Me:** [okoroaforkelechi123@gmail.com](mailto:okoroaforkelechi123@gmail.com)
 - 👨🏻‍💻 **Portfolio:** [Visit Here](https://okoroaforkelechidivine.github.io/portfolio/)
 
